@@ -1,4 +1,7 @@
+## Bitwig 6 version
 ![first sreenshot](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202025-11-09%20003337.png)
+
+## Bitwig 5 version
 ![second screenshot](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202024-09-01%20010344.png)
 ![third screenshot](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202024-09-16%20135106.png)
 ![fourth screenshot](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202024-09-16%20134616.png)
