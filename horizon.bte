@@ -4,13 +4,13 @@ Gradient: true
 Transparent: #00000000
 Image Source: #00000000
 Inherited: #a9a9fe
-White: #ffffff
+White: #fdf0edff
 Black: #000000
 Same as background: #00000000
 Accent: #00ff0000
 Default text: #000000
 Window background: #16161cff
-Grey 0: #16161cff
+Grey 0: #121217ff
 Grey 1: #16161cff
 Grey 2: #232530ff
 Grey 3: #1c1e26ff
@@ -22,7 +22,7 @@ Shadow: #0000004d
 Selected Dashboard Tree: #1c1e26
 Popup insert: #f9cec3
 Brighter: #6c6f93ff
-Color of unselected tabs: #00000015
+Color of unselected tabs: #00000000
 Color of stroke between tabs: #00000000
 Button stroke: #1a1c23ff
 Button background: #2e303ead
@@ -43,7 +43,7 @@ Notification Background: #fadad1ff
 Notification Normal: #00888c
 Notification Error: #da103f
 Warning: #da103f
-Automation Color: #8fa4ff
+Automation Color: #b877dbff
 User Automation Override Color: #07da8c
 Modulation Mapping Color: #1eaeaeff
 Modulation Mapping Color (subtractive): #f43e5cff
@@ -54,7 +54,7 @@ Menu background: #2e303eff
 Menu stroke: #1a1c23
 Menu text: #fdf0edff
 Menu Icon: #fab795ff
-Menu description text: #6c6f93
+Menu description text: #f9cec3ff
 Menu separator: #16161cff
 Field background: #fdf0edff
 Number field bar background: #fac29aff
@@ -192,8 +192,8 @@ Device Tint Military: #305d0247
 Device Header: #1c1e26
 Device Locked Overlay: #0e5ca180
 Device Header (selected): #2e303e
-The Grid (background): #16161c
-The Grid (stroke): #1a1c23
+The Grid (background): #16161cff
+The Grid (stroke): #1a1c23ff
 Automation Chooser Background: #00000000
 Comp fill: #005eb478
 Activation Green: #29e17c
