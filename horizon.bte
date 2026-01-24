@@ -161,8 +161,8 @@ Mapping indication 5: #65ce92
 Mapping indication 6: #5ca8ee
 Mapping indication 7: #c36eff
 Mapping indication 8: #ff54b0
-Panel Red: #e95678
-Panel Orange: #f77d26ff
+Panel Red: #e9436fff
+Panel Orange: #f075b7ff
 Panel Yellow: #fac29aff
 Panel Lime: #09f7a0ff
 Panel Green: #1eb980
@@ -196,10 +196,10 @@ Device Header (selected): #2e303e
 The Grid (background): #16161cff
 The Grid (stroke): #232530ff
 Automation Chooser Background: #00000000
-Comp fill: #005eb478
+Comp fill: #1d899178
 Activation Green: #29e17c
 Activation Yellow: #fab795
-Activation Red: #ff4021
+Activation Red: #f43e5cff
 Dark offset for automation/channel bar: #00000033
 Light offset for automation/channel bar: #ffffff4c
 White Selection: #ffffff
@@ -209,7 +209,7 @@ Compressed Audio Port in modular environment: #f77d26ff
 Audio connection in modular environment: #da103fff
 Audio64 connection in modular environment: #b877dbff
 Event connection in modular environment: #25b2bcff
-Polyphonic Desktop Object: #25b2bcff
+Polyphonic Desktop Object: #09f7a0ff
 Background color of the modular environment.: #000000
 Record button color implicit: #f43e5cff
 Record button glow color: #f43e5c40
@@ -217,7 +217,7 @@ Automation button glow color: #09f7a040
 Insert preview time: #d2d2d2d2
 Track Automation Button Color: #21bfc2ff
 Add Modulation Button Color: #b877dbff
-Multiply Modulation Button Color: #b877dbff
+Multiply Modulation Button Color: #09f7a0ff
 Plugin missing: #da103fff
 Timeline Tooltip Background: #998e8ec8
 Timeline Tooltip Text: #1a1c23
