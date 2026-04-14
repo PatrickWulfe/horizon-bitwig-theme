@@ -1,5 +1,5 @@
 ## Bitwig 6 version
-![BW6 new](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202026-01-23%20201039.png)
+![BW6 new](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202026-04-14%20002637.png)
 
 This is an older version of the Bitwig skin, but the VST skins should be current.
 ![first sreenshot](https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/main/screenshots/Screenshot%202025-11-09%20003337.png)
